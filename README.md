@@ -1,1 +1,2 @@
 # AA1_Galeria_Tiro_MoraBermejoSebastian
+No se porque pero el starter content no esta borrado del repositorio aunque en mi proyecto local si que lo esta, esto causa que las puertas se puedan atravesar por alguna razon que no entiendo ya que en mi proyecto local esto no ocurre
